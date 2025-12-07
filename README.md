@@ -1,4 +1,4 @@
-# Lama Dev School Management Dashboard
+# Mahidol Social Listening
 
 ## Getting Started
 
